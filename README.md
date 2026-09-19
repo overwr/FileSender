@@ -8,10 +8,15 @@ CLIENT:
     fcs 1 <search> <ip> <port> <files>
 
 1 - server/client (1/0)
+
 2 - Search for file (0 - no, 1 - yes)
+
 3 - IP
+
 4 - PORT
+
 5 - "file1,file2" or "*.png"
+
 
 Examples:
 
